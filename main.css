@@ -1,0 +1,10 @@
+#text-panel {
+    border: 1px solid gray;
+    padding: 15px;
+    min-height: 300px;
+    overflow-y: auto;
+}
+.editor-button {
+    background-color: white;
+    border: 1px solid black;
+}
